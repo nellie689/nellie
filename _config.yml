@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Nian(Nellie) Wu"
+title                    : "Nian Wu"
 title_separator          : "-"
 name                     : &name "Nellie"
 description              : &description "personal description"
@@ -80,7 +80,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Nian Wu"
+  name             : "Nian(Nellie) Wu"
   avatar           : "7766.jpg"
   bio              : "Your biography for the left-hand sidebar"
   location         : "Virginia, United States"
