@@ -1,20 +1,13 @@
 ---
-title: "Teaching experience 2"
+title: "Teaching Assistant"
 collection: teaching
 type: "Workshop"
-permalink: /teaching/2015-spring-teaching-1
-venue: "University 1, Department"
-date: 2015-01-01
-location: "City, Country"
+permalink: /teaching/2022-11-winter-teaching
+venue: "University of Virginia"
+date: 2022-11
+location: "Shanghai, China"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+Teaching Assistant of Prof. Miaomiao Zhang (UVA) in the seminar: VIRTUAL and FREE Winter 
+School in “AI in Medical Imaging”
 
-Heading 1
-======
-
-Heading 2
-======
-
-Heading 3
-======
