@@ -5,4 +5,4 @@ permalink: /publications/
 author_profile: true
 ---
 
-<script src="https://bibbase.org/show?bib=https://bibbase.org/network/files/j38suGZqBqKxYJCbq&msg=preview&fileId=j38suGZqBqKxYJCbq"></script>
+<script src="https://bibbase.org/show?bib=https%3A%2F%2Fbibbase.org%2Fnetwork%2Ffiles%2Fj38suGZqBqKxYJCbq&msg=embed&noBootstrap=1"></script>
