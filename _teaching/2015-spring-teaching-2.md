@@ -1,7 +1,7 @@
 ---
 title: "Teaching Assistant"
 collection: teaching
-type: "Workshop"
+type: "Seminar"
 permalink: /teaching/2022-11-winter-teaching
 venue: "University of Virginia"
 date: 2022-11
