@@ -8,4 +8,4 @@ date: 2021 spring
 location: "Shanghai, China"
 ---
 
-Teaching Assistant of Professor Shian Han, Mathematical Analysis
+Teaching Assistant of Prof. Shian Han(ECNU), Mathematical Analysis
